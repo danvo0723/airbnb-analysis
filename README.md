@@ -1,9 +1,14 @@
 # airbnb-analysis
 What are the most popular room types in Airbnb?
+
 Which area has the maximum listing on Airbnb? (base map)
+
 Which area has the maximum listing on Airbnb? (zip code)
+
 What Cancellation policy should hosts set up for their listing?
+
 What price to set for the daily rate?
+
 What amenities should be installed in the listing? (included cleaning fee) And Display listing thumbnail images
 Which cities has the most review score in our dataset?
 What is the popular number of accommodations, bedroom, beds and bathroom when customers are searching for listings?
