@@ -36,5 +36,5 @@ Fitting a Linear Regression Model
 Fitting A Logistic Regression Model
   Predicting the Probability of A dependent variable (Y)
   Evaluating the Accuracy of a Logistic Regression Classification Using Confusion Matrix
-  Plot the ROC Curve of a Logistic Regression Classification Model
+  Plot the ROC Curve of a Logistic Regression Classification Model 
 
